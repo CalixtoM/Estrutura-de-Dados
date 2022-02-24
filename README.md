@@ -20,3 +20,7 @@ Repositório para postagem dos exercícios em C++ da matéria de Estrutura de da
 - Exercicio 8 - Crie um programa que solicite ao usuário os três ângulos de um triângulo e informe se este é um triângulo equilátero, isósceles ou escaleno. 
 
 - Exercicio 9 - Escreva um programa que solicite ao usuário quatro números e mostre na tela o maior, o menor e a média aritmética dos números digitados. 
+
+## Aula 02:
+
+- Exercicio 1 - Fazer um programa que leia vários números inteiros e positivos. A leitura se encerra quando encontrar um número negativo ou quando o vetor ficar completo. Sabe-se que o vetor possui, no máximo, 10 elementos. Gerar e imprimir um vetor onde cada elemento é o inverso do correspondente do vetor original. 
