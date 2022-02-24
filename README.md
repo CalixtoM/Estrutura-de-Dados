@@ -24,3 +24,5 @@ Repositório para postagem dos exercícios em C++ da matéria de Estrutura de da
 ## Aula 02:
 
 - Exercicio 1 - Fazer um programa que leia vários números inteiros e positivos. A leitura se encerra quando encontrar um número negativo ou quando o vetor ficar completo. Sabe-se que o vetor possui, no máximo, 10 elementos. Gerar e imprimir um vetor onde cada elemento é o inverso do correspondente do vetor original. 
+
+- Exercicio 2 - Fazer um programa que digite vários números no vetor de tamanho máximo de 100 elementos, até digitar o número “0”. Imprimir quantos números iguais ao último número foram lidos. O limite de números é 100.  Sem considerar o “0” como último número.
