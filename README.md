@@ -32,3 +32,7 @@ Repositório para postagem dos exercícios em C++ da matéria de Estrutura de da
 - Exercicio 4 - Ler um vetor V de 10 elementos e obter um vetor W cujos componentes são os fatoriais dos respectivos componentes de V.
 
 - Exercicio 5 - Criar um programa que leia dados de um vetor de 12 elementos inteiros. Imprima o maior e menor sem ordenar, o percentual de números pares e a média dos elementos do vetor.
+
+- Exercicio 6 - Criar um vetor com a 8 elementos e ordená-los.
+
+- Exercicio 7 - Fazer um programa que, dados dois vetores de 7 posições cada, efetue as operações aritméticas básicas, indicadas por um terceiro vetor cujos dados também são fornecidos pelo usuário, gerando e imprimindo um quarto vetor.
