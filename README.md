@@ -2,6 +2,7 @@
 Repositório para postagem dos exercícios em C++ da matéria de Estrutura de dados, do terceiro semestre do curso de Análise e Desenvolvimento de Sistemas.
 
 ## Aula 01:
+### (16/02)
 
 - Exercicio 1 - Crie um programa que solicite ao usuário os três coeficientes de uma equação do segundo grau e informe os valores de x’ e x’’. 
 
@@ -22,6 +23,7 @@ Repositório para postagem dos exercícios em C++ da matéria de Estrutura de da
 - Exercicio 9 - Escreva um programa que solicite ao usuário quatro números e mostre na tela o maior, o menor e a média aritmética dos números digitados. 
 
 ## Aula 02:
+### (23/02)
 
 - Exercicio 1 - Fazer um programa que leia vários números inteiros e positivos. A leitura se encerra quando encontrar um número negativo ou quando o vetor ficar completo. Sabe-se que o vetor possui, no máximo, 10 elementos. Gerar e imprimir um vetor onde cada elemento é o inverso do correspondente do vetor original. 
 
