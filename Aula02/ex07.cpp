@@ -11,7 +11,6 @@ int main(int argc, char *argv[]){
     int vetor2[7];
     int vetor3[7];
     float vetor4[7];
-    int opc = 0;
 
     for(int i = 0; i < 7; i++){
         cout << "Digite o primeiro numero: ";
