@@ -19,8 +19,8 @@ int main(int argc, char *argv[]){
         cout << "Digite o segundo numero: ";
         cin >> vetor2[i];
         cout << "Digite: \n 1 para soma: \n 2 para subtracao: \n 3 para multiplicacao: \n 4 para divisão: ";
-        cin >> opc;
-        switch(opc){
+        cin >> vetor3[i];
+        switch(vetor3[i]){
             case 1:
                 vetor4[i] = vetor1[i] + vetor2[i];
             break;
