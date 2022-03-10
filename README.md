@@ -38,3 +38,19 @@ Repositório para postagem dos exercícios em C++ da matéria de Estrutura de da
 - Exercicio 6 - Criar um vetor com a 8 elementos e ordená-los.
 
 - Exercicio 7 - Fazer um programa que, dados dois vetores de 7 posições cada, efetue as operações aritméticas básicas, indicadas por um terceiro vetor cujos dados também são fornecidos pelo usuário, gerando e imprimindo um quarto vetor.
+
+## Aula 03:
+### (09/03)
+
+- Exercicio 1 - Criar uma matriz de ordem 4 e exibir a soma da 
+diagonal principal.
+
+- Exercício 2 - Ler valores inteiros para a matriz A[3][5]. Gerar e 
+imprimir o vetor Soma_Linha, onde cada elemento é a 
+soma dos elementos de uma linha da matriz A. Faça o 
+trecho que gera a matriz separadamente da entrada e 
+saída.
+
+- Exercício 3 - Criar uma matriz 2x3. Gerar e imprimir a transposta 
+dessa matriz. A matriz transposta é gerada trocando linha 
+por coluna.
