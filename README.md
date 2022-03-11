@@ -54,3 +54,11 @@ saída.
 - Exercício 3 - Criar uma matriz 2x3. Gerar e imprimir a transposta 
 dessa matriz. A matriz transposta é gerada trocando linha 
 por coluna.
+
+- Exercício 4 - Criar uma matriz de ordem 5 e imprima: toda a matriz 
+e depois os números que se encontram em posições cuja 
+a linha mais a coluna formam um número ímpar.
+
+- Exercício 5 - Ler os elementos de uma matriz de ordem 6 e 
+imprima o produto dos elementos que estão abaixo da 
+diagonal principal.
