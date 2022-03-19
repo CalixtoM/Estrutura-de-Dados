@@ -1,5 +1,5 @@
 # Estrutura-de-Dados
-Repositório para postagem dos exercícios em C++ da matéria de Estrutura de dados, do terceiro semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec de Praia Grande.
+Repositório para postagem dos exercícios em C++ da matéria de Estrutura de dados, do terceiro semestre do curso de Análise e Desenvolvimento de Sistemas na [Fatec de Praia Grande](www.fatecpg.edu.br).
 
 ## Aula 01 - Revisão:
 ### (16/02)
