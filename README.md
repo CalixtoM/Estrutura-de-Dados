@@ -93,3 +93,8 @@ digitação o usuário escolha um seletor de opção (menu) com as seguintes op�
 Obs. Criar um método para cada opção e dentro do case chamar as funções respectivamente.
 
 - Exercicio 6 - Gere um método que trabalhe com fatorial, lembrando o fatorial é ele vezes a quantidade dele mesmo. Ex. fat 5 = 5*4*3*2*1.
+
+## Aula 05 - Recursividade:
+### (23/03)
+
+- Desafio: Usar recursividade para calcular a sequencia de Fibonacci.
