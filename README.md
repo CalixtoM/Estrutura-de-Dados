@@ -97,4 +97,4 @@ Obs. Criar um método para cada opção e dentro do case chamar as funções res
 ## Aula 05 - Recursividade:
 ### (23/03)
 
-- Desafio: Usar recursividade para calcular a sequencia de Fibonacci.
+- Desafio: Usar método recursivo para calcular a sequencia de Fibonacci.
