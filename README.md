@@ -98,3 +98,8 @@ Obs. Criar um método para cada opção e dentro do case chamar as funções res
 ### (23/03)
 
 - Desafio: Usar método recursivo para calcular a sequencia de Fibonacci.
+
+## Aula 06 - Apresentação:
+### (30/03)
+
+- Quicksort: Nessa aula nos dividimos em grupos para explicar métodos, meu tema foi o método Quicksort.
