@@ -102,4 +102,4 @@ Obs. Criar um método para cada opção e dentro do case chamar as funções res
 ## Aula 06 - Apresentação:
 ### (30/03)
 
-- Quicksort: Nessa aula nos dividimos em grupos para explicar métodos, meu tema foi o método Quicksort, onde desenvolvi um algoritmo utilizando esse método, além de recursividade.
+- Quicksort: Nessa aula nos dividimos em grupos para explicar métodos, meu tema foi o método Quicksort, onde desenvolvi um algoritmo utilizando esse método, além de recursividade para organizar todos os números.
