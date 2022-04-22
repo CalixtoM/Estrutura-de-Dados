@@ -4,7 +4,7 @@ Repositório para postagem dos exercícios em C++ da matéria de Estrutura de da
 Ps: Nem todos os códigos já estão disponíveis!
 
 
-###💡 Ideia:
+### 💡 Ideia:
 A ideia central desse repositório é armazenar códigos desenvolvidos durante as aulas, tendo como objetivo utilizar como uma linha do tempo dos meus estudo, alinhado aos demais repositórios dedicados a matérias da Fatec.
 
 
