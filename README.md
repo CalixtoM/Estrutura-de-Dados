@@ -137,3 +137,51 @@ Obs. Criar um método para cada opção e dentro do case chamar as funções res
     Obs. Não esquecer de verificar primeiramente se é triangulo
 
 - Exercício 3 - Crie uma classe Estacionamento que tenha como atributos da classe dia, horaEntrada, horaSaida, e dois métodos o primeiro Solicita os dados para o usuário e o outro método calcule o valor a ser pago sendo que cada hora equivale a 5 reais.
+
+Baseado no diagrama de classe abaixo faça a classe no C++.
+
+Conta
++ número: int
++ saldo: double
++ limite: double
++ nome: string
+~conta (int, double, double, string)
++ saca (valor: double) bool
++ deposita (valor: double)
++ transfere ( destino: Conta, valor: double) 
+bool
+
+02- Escreva uma classe chamada classe “Comparavel” que tem como 
+atributo um valor inteiro, um construtor para inicializar o atributo e os 
+métodos éMaiorOuIgual, éMenorOuIgual e éDiferenteDe que recebem um 
+valor do tipo int como parâmetro e retornam true se o valor encapsulado 
+for, respectivamente, maior ou igual, menor ou igual ou diferente do 
+passado como parâmetro.
+03- Escreva uma classe “EntradaDeCinema” com a seguinte estrutura 
+(dados): 
+
+• Int dia do filme
+• float horário
+• int sala
+• float valor 
+E com as seguintes ações (métodos):
+• Construtor: com a finalidade de inicializar todos os atributos.
+CalculaDesconto: que deve receber como parâmetro a data de 
+
+nascimento do cliente (do tipo Data) e caso seja menor de 12 anos, 
+deve ser dado um desconto de 50% no valor normal.
+• CalculaDesconto: que deve receber como parâmetro a data de 
+nascimento do cliente (do tipo Data) e o número de sua carteira de 
+estudante (do tipo int). Se o estudante tiver idade entre 12 e 15 
+anos, deve ser dado um desconto de 40%, de 16 a 20 um desconto 
+de 30% e mais que 20 anos um desconto de 20% no valor normal.
+• CalculaDescontoHorário: esse método deve dar um desconto de 
+10% sobre o valor aferido após todas as outras opções de desconto, 
+caso o horário do filme seja antes das 16 horas.
+• toString(): que deve imprimir todos os dados do ingresso.
+
+4-) Crie uma classe Aluno contendo seu nome, número de matrícula e 
+telefone. 
+a) Crie dois construtores, um iniciando valores “vazios” e outro iniciando 
+valores dados pelo teclado. 
+b) Faça um método que imprima dados de dois alunos simultâneamente.
