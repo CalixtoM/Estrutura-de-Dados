@@ -138,7 +138,10 @@ Obs. Criar um método para cada opção e dentro do case chamar as funções res
 
 - Exercício 3 - Crie uma classe Estacionamento que tenha como atributos da classe dia, horaEntrada, horaSaida, e dois métodos o primeiro Solicita os dados para o usuário e o outro método calcule o valor a ser pago sendo que cada hora equivale a 5 reais.
 
-Baseado no diagrama de classe abaixo faça a classe no C++.
+## Aula 10 - Construtor
+### (04/05)
+
+- Exercício 1 - Baseado no diagrama de classe abaixo faça a classe no C++.
 
 Conta
 + número: int
@@ -151,13 +154,14 @@ Conta
 + transfere ( destino: Conta, valor: double) 
 bool
 
-02- Escreva uma classe chamada classe “Comparavel” que tem como 
+- Exercício 2 - Escreva uma classe chamada classe “Comparavel” que tem como 
 atributo um valor inteiro, um construtor para inicializar o atributo e os 
 métodos éMaiorOuIgual, éMenorOuIgual e éDiferenteDe que recebem um 
 valor do tipo int como parâmetro e retornam true se o valor encapsulado 
 for, respectivamente, maior ou igual, menor ou igual ou diferente do 
 passado como parâmetro.
-03- Escreva uma classe “EntradaDeCinema” com a seguinte estrutura 
+
+- Exercício 3 - Escreva uma classe “EntradaDeCinema” com a seguinte estrutura 
 (dados): 
 
 • Int dia do filme
@@ -180,7 +184,7 @@ de 30% e mais que 20 anos um desconto de 20% no valor normal.
 caso o horário do filme seja antes das 16 horas.
 • toString(): que deve imprimir todos os dados do ingresso.
 
-4-) Crie uma classe Aluno contendo seu nome, número de matrícula e 
+- Exercício 4 - Crie uma classe Aluno contendo seu nome, número de matrícula e 
 telefone. 
 a) Crie dois construtores, um iniciando valores “vazios” e outro iniciando 
 valores dados pelo teclado. 
