@@ -178,3 +178,34 @@ passado como parâmetro.
 a) Crie dois construtores, um iniciando valores “vazios” e outro iniciando 
 valores dados pelo teclado. 
 b) Faça um método que imprima dados de dois alunos simultâneamente.
+
+## Aula 11 - Ponteiro
+### (17/05)
+
+- Exercicio 1 - Desenvolva um programa onde você crie 3 variáveis a, b e soma e dois ponteiros: pont1 e pont2, todos do tipo int.
+
+  - Peça para o usuário entrar com o valor de a e b via teclado e faça com que os ponteiros recebam o endereço de memória de a e b.
+
+  - Exibir na tela o endereço de memória das variáveis a, b e dos dois ponteiros.
+
+  - Some a e b e guarde dentro da variável soma.
+
+  - Atribuir o conteúdo de soma para o ponteiro pont1 e exibir o conteúdo do pont1.
+
+- Exercicio 2 - Desenvolva um programa onde você crie 3 variáveis e inicialize-as com o valor que quiser, um vetor de 10 posições que receba os valores diretamente dentro do programa como: 0,10,20,30,40,50,60,70,80,90 e também 4 ponteiros chamados pt1, pt2, pt3 e vaux.
+
+  - Atribuir o pt1 ao endereço de memória de a, pt2 ao de b e pt3 ao de c;
+
+  - Exiba na tela o endereço de memória de a e o do ponteiro pt1;
+
+  - Exiba na tela o valor da variável apontada por pt1;
+
+  - Atribuir o valor do endereço de memória da posição 1 do vetor já criado para o ponteiro vaux e exibir na tela o valor da variável apontada pelo ponteiro;
+
+  - Agora varra o vetor de 2 em 2 a partir da posição 1 (ex. 1,3,5,7,9) e acrescente o valor de + 10 em cada posição, exibir na tela os valores dos vetores criados acima.
+
+Ex. v[1] = 20, v[3] = 40...
+
+- Exercicio 3 - Faça um método que peça 2 (dois) números inteiros, e mostre no vídeo todos os números ímpares entre eles (incluindo-os). Os dois valores podem ser informados em qualquer ordem, devendo o programa trata-los de forma adequada.
+
+Obs: Os parâmetros do método deve ser dois ponteiros de inteiros. Manipule-os corretamente dentro do método.
