@@ -209,3 +209,6 @@ Ex. v[1] = 20, v[3] = 40...
 - Exercicio 3 - Faça um método que peça 2 (dois) números inteiros, e mostre no vídeo todos os números ímpares entre eles (incluindo-os). Os dois valores podem ser informados em qualquer ordem, devendo o programa trata-los de forma adequada.
 
 Obs: Os parâmetros do método deve ser dois ponteiros de inteiros. Manipule-os corretamente dentro do método.
+
+## Aula 12 - Trabalho Calendário
+### (18/05)
