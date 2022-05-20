@@ -212,3 +212,5 @@ Obs: Os parâmetros do método deve ser dois ponteiros de inteiros. Manipule-os 
 
 ## Aula 12 - Trabalho Calendário
 ### (18/05)
+
+- Enunciado: Dado o exercicio do calendário transforme-o em uma classe com seus 3 métodos e crie um objeto no "main" e manipule a classe.
