@@ -210,7 +210,7 @@ Ex. v[1] = 20, v[3] = 40...
 
 Obs: Os parâmetros do método deve ser dois ponteiros de inteiros. Manipule-os corretamente dentro do método.
 
-## Aula 12 - Trabalho Calendário
+## Aula 12 - Trabalho Prático Calendário
 ### (18/05)
 
 - Enunciado: Dado o exercicio do calendário transforme-o em uma classe com seus 3 métodos e crie um objeto no "main" e manipule a classe.
