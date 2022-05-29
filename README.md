@@ -218,3 +218,9 @@ Obs: Os parâmetros do método deve ser dois ponteiros de inteiros. Manipule-os 
 
 ## Aula 13 - Fila, Pilha e Lista
 ### (25/05)
+
+- Exercício 1 - Faça um sistema de Pilha (Primeiro que entra é o último que saí).
+
+- Exercício 2 - Faça um sistema de Fila (Primeiro que entra é o primeiro que saí, com outros assumindo as posições vazias).
+
+- Exercício 3 - Faça um sistema de Lista (Primeiro ou último saem, substituindo posições).
