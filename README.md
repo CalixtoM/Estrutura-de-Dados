@@ -7,6 +7,21 @@ Ps: Nem todos os códigos já estão disponíveis!
 ### 💡 Ideia:
 A ideia central desse repositório é armazenar códigos desenvolvidos durante as aulas, tendo como objetivo utilizar como uma linha do tempo dos meus estudo, alinhado aos demais repositórios dedicados a matérias da Fatec.
 
+## Sumário:
+ - Aula 01 - Revisão
+ - Aula 02 - Vetor
+ - Aula 03 - Matriz
+ - Aula 04 - Método
+ - Aula 05 - Recursividade
+ - Aula 06 - Apresentação
+ - Aula 07 - Prova
+ - Aula 08 - Desafio
+ - Aula 09 - Classes Orientação a Objetos
+ - Aula 10 - Construtor
+ - Aula 11 - Ponteiro
+ - Aula 12 - Trabalho Prático Calendário
+ - Aula 13 - Fila, Pilha e Lista
+ - Aula 14 - Grafos
 
 ## Aula 01 - Revisão:
 ### (16/02)
@@ -111,7 +126,7 @@ Obs. Criar um método para cada opção e dentro do case chamar as funções res
 
 - Quicksort: Nessa aula nos dividimos em grupos para explicar métodos, meu tema foi o método Quicksort, onde desenvolvi um algoritmo utilizando esse método, além de recursividade para organizar todos os números.
 
-## Aula 07 - Prova
+## Aula 07 - Prova:
 ### (07/04)
 
 ## Aula 08 - Desafio:
