@@ -244,3 +244,6 @@ Obs: Os parâmetros do método deve ser dois ponteiros de inteiros. Manipule-os 
 ### (01/06)
 
 - Foi solicitada uma pesquisa sobre grafos.
+
+## Aula 15 - P2
+### (08/06)
