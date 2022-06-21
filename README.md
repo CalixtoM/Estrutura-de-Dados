@@ -7,6 +7,11 @@ Ps: Nem todos os códigos já estão disponíveis!
 ### 💡 Ideia:
 A ideia central desse repositório é armazenar códigos desenvolvidos durante as aulas, tendo como objetivo utilizar como uma linha do tempo dos meus estudo, alinhado aos demais repositórios dedicados a matérias da Fatec.
 
+### 🧰 Tecnologias Utilizadas:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
+</div>
+
 ## Sumário:
  - Aula 01 - Revisão
  - Aula 02 - Vetor
